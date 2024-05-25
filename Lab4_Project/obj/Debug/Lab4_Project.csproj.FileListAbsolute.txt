@@ -1,0 +1,12 @@
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\bin\Debug\Lab4_Project.exe.config
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\bin\Debug\Lab4_Project.exe
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\bin\Debug\Lab4_Project.pdb
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\obj\Debug\Lab4_Project.csproj.AssemblyReference.cache
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\obj\Debug\Lab4_Project.formNguoiDung.resources
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\obj\Debug\Lab4_Project.Menu.resources
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\obj\Debug\Lab4_Project.Properties.Resources.resources
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\obj\Debug\Lab4_Project.csproj.GenerateResource.cache
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\obj\Debug\Lab4_Project.csproj.CoreCompileInputs.cache
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\obj\Debug\Lab4_Project.exe
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\obj\Debug\Lab4_Project.pdb
+C:\Users\tuant\source\repos\Lab4_Project\Lab4_Project\obj\Debug\Lab4_Project.formThongTinMay.resources
